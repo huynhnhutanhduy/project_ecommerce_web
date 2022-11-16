@@ -2,6 +2,6 @@
 
 - Download and rename the folder to `-website-mp`
 
-- With Xampp or WampServer, please create a database at `localhost/phpmyadmin` and then import the sql database file in folder `-website-mp` into the database just created at `localhost/phpmyadmin`
+- With Xampp or WampServer, please create a database at `localhost/phpmyadmin` and then import the sql database file in folder `-website-mp` into the newly created database at `localhost/phpmyadmin`
 
 - Run webiste: `localhost/-website-mp/`
